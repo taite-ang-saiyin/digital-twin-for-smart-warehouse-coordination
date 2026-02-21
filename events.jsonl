@@ -1,0 +1,23 @@
+{"t": 0, "type": "TICK_START"}
+{"t": 0, "type": "ROBOT_WAIT", "robot_id": "r1", "reason": "CELL_OCCUPIED"}
+{"t": 0, "type": "ROBOT_MOVE", "robot_id": "r2", "from": [2, 1], "to": [3, 1]}
+{"t": 1, "type": "TICK_START"}
+{"t": 1, "type": "ROBOT_MOVE", "robot_id": "r1", "from": [1, 1], "to": [2, 1]}
+{"t": 1, "type": "ROBOT_MOVE", "robot_id": "r2", "from": [3, 1], "to": [4, 1]}
+{"t": 2, "type": "TICK_START"}
+{"t": 2, "type": "ROBOT_MOVE", "robot_id": "r1", "from": [2, 1], "to": [3, 1]}
+{"t": 2, "type": "ROBOT_MOVE", "robot_id": "r2", "from": [4, 1], "to": [5, 1]}
+{"t": 3, "type": "TICK_START"}
+{"t": 3, "type": "ROBOT_MOVE", "robot_id": "r1", "from": [3, 1], "to": [4, 1]}
+{"t": 4, "type": "TICK_START"}
+{"t": 4, "type": "ROBOT_WAIT", "robot_id": "r1", "reason": "CELL_OCCUPIED"}
+{"t": 5, "type": "TICK_START"}
+{"t": 5, "type": "ROBOT_WAIT", "robot_id": "r1", "reason": "CELL_OCCUPIED"}
+{"t": 6, "type": "TICK_START"}
+{"t": 6, "type": "ROBOT_WAIT", "robot_id": "r1", "reason": "CELL_OCCUPIED"}
+{"t": 7, "type": "TICK_START"}
+{"t": 7, "type": "ROBOT_WAIT", "robot_id": "r1", "reason": "CELL_OCCUPIED"}
+{"t": 8, "type": "TICK_START"}
+{"t": 8, "type": "ROBOT_WAIT", "robot_id": "r1", "reason": "CELL_OCCUPIED"}
+{"t": 9, "type": "TICK_START"}
+{"t": 9, "type": "ROBOT_WAIT", "robot_id": "r1", "reason": "CELL_OCCUPIED"}
