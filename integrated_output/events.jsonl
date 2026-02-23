@@ -37,3 +37,241 @@
 {"t": 9, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
 {"t": 9, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
 {"t": 9, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 9], "to": [4, 10]}
+{"t": 10, "type": "TICK_START"}
+{"t": 10, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 10, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 10, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 10], "to": [4, 11]}
+{"t": 11, "type": "TICK_START"}
+{"t": 11, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 11, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 11, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 11], "to": [5, 11]}
+{"t": 12, "type": "TICK_START"}
+{"t": 12, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 12, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 12, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [5, 11], "to": [6, 11]}
+{"t": 13, "type": "TICK_START"}
+{"t": 13, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 13, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 13, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [6, 11], "to": [7, 11]}
+{"t": 14, "type": "TICK_START"}
+{"t": 14, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 14, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 14, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [7, 11], "to": [8, 11]}
+{"t": 15, "type": "TICK_START"}
+{"t": 15, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 15, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 15, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [8, 11], "to": [9, 11]}
+{"t": 16, "type": "TICK_START"}
+{"t": 16, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 16, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 16, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [9, 11], "to": [10, 11]}
+{"t": 17, "type": "TICK_START"}
+{"t": 17, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 17, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 17, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [10, 11], "to": [11, 11]}
+{"t": 18, "type": "TICK_START"}
+{"t": 18, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 18, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 18, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [11, 11], "to": [12, 11]}
+{"t": 19, "type": "TICK_START"}
+{"t": 19, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 19, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [12, 11], "to": [13, 11]}
+{"t": 20, "type": "TICK_START"}
+{"t": 20, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 20, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [13, 11], "to": [14, 11]}
+{"t": 21, "type": "TICK_START"}
+{"t": 21, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 21, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [14, 11], "to": [15, 11]}
+{"t": 22, "type": "TICK_START"}
+{"t": 22, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 22, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [15, 11], "to": [15, 10]}
+{"t": 23, "type": "TICK_START"}
+{"t": 23, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 23, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [15, 10], "to": [15, 9]}
+{"t": 24, "type": "TICK_START"}
+{"t": 24, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 24, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [15, 9], "to": [15, 8]}
+{"t": 25, "type": "TICK_START"}
+{"t": 25, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 25, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [15, 8], "to": [16, 8]}
+{"t": 26, "type": "TICK_START"}
+{"t": 26, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 26, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [16, 8], "to": [16, 7]}
+{"t": 27, "type": "TICK_START"}
+{"t": 27, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 27, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [16, 7], "to": [17, 7]}
+{"t": 28, "type": "TICK_START"}
+{"t": 28, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 28, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [17, 7], "to": [16, 7]}
+{"t": 29, "type": "TICK_START"}
+{"t": 29, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 29, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [16, 7], "to": [15, 7]}
+{"t": 30, "type": "TICK_START"}
+{"t": 30, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 30, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [15, 7], "to": [15, 8]}
+{"t": 31, "type": "TICK_START"}
+{"t": 31, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 31, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [15, 8], "to": [15, 9]}
+{"t": 32, "type": "TICK_START"}
+{"t": 32, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 32, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [15, 9], "to": [15, 10]}
+{"t": 33, "type": "TICK_START"}
+{"t": 33, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 33, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [15, 10], "to": [15, 11]}
+{"t": 34, "type": "TICK_START"}
+{"t": 34, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 34, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [15, 11], "to": [14, 11]}
+{"t": 35, "type": "TICK_START"}
+{"t": 35, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 35, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [14, 11], "to": [13, 11]}
+{"t": 36, "type": "TICK_START"}
+{"t": 36, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 36, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [13, 11], "to": [12, 11]}
+{"t": 37, "type": "TICK_START"}
+{"t": 37, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 37, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [12, 11], "to": [11, 11]}
+{"t": 38, "type": "TICK_START"}
+{"t": 38, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 38, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [11, 11], "to": [10, 11]}
+{"t": 39, "type": "TICK_START"}
+{"t": 39, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 39, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [10, 11], "to": [9, 11]}
+{"t": 40, "type": "TICK_START"}
+{"t": 40, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 40, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [9, 11], "to": [8, 11]}
+{"t": 41, "type": "TICK_START"}
+{"t": 41, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 41, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [8, 11], "to": [7, 11]}
+{"t": 42, "type": "TICK_START"}
+{"t": 42, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 42, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [7, 11], "to": [6, 11]}
+{"t": 43, "type": "TICK_START"}
+{"t": 43, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 43, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [6, 11], "to": [5, 11]}
+{"t": 44, "type": "TICK_START"}
+{"t": 44, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 44, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [5, 11], "to": [4, 11]}
+{"t": 45, "type": "TICK_START"}
+{"t": 45, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 45, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 11], "to": [4, 10]}
+{"t": 46, "type": "TICK_START"}
+{"t": 46, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 46, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 10], "to": [4, 9]}
+{"t": 47, "type": "TICK_START"}
+{"t": 47, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 47, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 9], "to": [4, 8]}
+{"t": 48, "type": "TICK_START"}
+{"t": 48, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 48, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 8], "to": [4, 7]}
+{"t": 49, "type": "TICK_START"}
+{"t": 49, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 49, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 7], "to": [4, 6]}
+{"t": 50, "type": "TICK_START"}
+{"t": 50, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 50, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 6], "to": [4, 5]}
+{"t": 51, "type": "TICK_START"}
+{"t": 51, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 51, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 5], "to": [4, 4]}
+{"t": 52, "type": "TICK_START"}
+{"t": 52, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 52, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 4], "to": [4, 3]}
+{"t": 53, "type": "TICK_START"}
+{"t": 53, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 53, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 3], "to": [3, 3]}
+{"t": 54, "type": "TICK_START"}
+{"t": 54, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 54, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [3, 3], "to": [3, 2]}
+{"t": 55, "type": "TICK_START"}
+{"t": 55, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 55, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [3, 2], "to": [2, 2]}
+{"t": 56, "type": "TICK_START"}
+{"t": 56, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 56, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 57, "type": "TICK_START"}
+{"t": 57, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 57, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 58, "type": "TICK_START"}
+{"t": 58, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 58, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 59, "type": "TICK_START"}
+{"t": 59, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 59, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 60, "type": "TICK_START"}
+{"t": 60, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 60, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 61, "type": "TICK_START"}
+{"t": 61, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 61, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 62, "type": "TICK_START"}
+{"t": 62, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 62, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 63, "type": "TICK_START"}
+{"t": 63, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 63, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 64, "type": "TICK_START"}
+{"t": 64, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 64, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 65, "type": "TICK_START"}
+{"t": 65, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 65, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 66, "type": "TICK_START"}
+{"t": 66, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 66, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 67, "type": "TICK_START"}
+{"t": 67, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 67, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 68, "type": "TICK_START"}
+{"t": 68, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 68, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 69, "type": "TICK_START"}
+{"t": 69, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 69, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 70, "type": "TICK_START"}
+{"t": 70, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 70, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 71, "type": "TICK_START"}
+{"t": 71, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 71, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 72, "type": "TICK_START"}
+{"t": 72, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 72, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 73, "type": "TICK_START"}
+{"t": 73, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 73, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 74, "type": "TICK_START"}
+{"t": 74, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 74, "type": "ROBOT_WAIT", "robot_id": "R3", "reason": "occupied_by:R2"}
+{"t": 75, "type": "TICK_START"}
+{"t": 75, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 76, "type": "TICK_START"}
+{"t": 76, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 77, "type": "TICK_START"}
+{"t": 77, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 78, "type": "TICK_START"}
+{"t": 78, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 79, "type": "TICK_START"}
+{"t": 79, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 80, "type": "TICK_START"}
+{"t": 80, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 80, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 81, "type": "TICK_START"}
+{"t": 81, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 81, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 82, "type": "TICK_START"}
+{"t": 82, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 82, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 83, "type": "TICK_START"}
+{"t": 83, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 83, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 84, "type": "TICK_START"}
+{"t": 84, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 84, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 85, "type": "TICK_START"}
+{"t": 85, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 85, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 86, "type": "TICK_START"}
+{"t": 86, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 86, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 87, "type": "TICK_START"}
+{"t": 87, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 87, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
