@@ -1,0 +1,3 @@
+time_s,step,robots,moved_total,waited_total,conflicts_resolved,deadlocks_resolved
+0.01,5,3,5,0,0,0
+0.013,10,3,10,0,0,0

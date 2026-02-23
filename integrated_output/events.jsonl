@@ -1,0 +1,39 @@
+{"t": 0, "type": "TICK_START"}
+{"t": 0, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 0, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [3, 1], "to": [4, 1]}
+{"t": 1, "type": "TICK_START"}
+{"t": 1, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 1, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 1, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 1], "to": [4, 2]}
+{"t": 2, "type": "TICK_START"}
+{"t": 2, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 2, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 2, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 2], "to": [4, 3]}
+{"t": 3, "type": "TICK_START"}
+{"t": 3, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 3, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 3, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 3], "to": [4, 4]}
+{"t": 4, "type": "TICK_START"}
+{"t": 4, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 4, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 4, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 4], "to": [4, 5]}
+{"t": 5, "type": "TICK_START"}
+{"t": 5, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 5, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 5, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 5], "to": [4, 6]}
+{"t": 6, "type": "TICK_START"}
+{"t": 6, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 6, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 6, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 6], "to": [4, 7]}
+{"t": 7, "type": "TICK_START"}
+{"t": 7, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 7, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 7, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 7], "to": [4, 8]}
+{"t": 8, "type": "TICK_START"}
+{"t": 8, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 8, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 8, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 8], "to": [4, 9]}
+{"t": 9, "type": "TICK_START"}
+{"t": 9, "type": "ROBOT_WAIT", "robot_id": "R1", "reason": "NO_PATH"}
+{"t": 9, "type": "ROBOT_WAIT", "robot_id": "R2", "reason": "NO_PATH"}
+{"t": 9, "type": "ROBOT_MOVE", "robot_id": "R3", "from": [4, 9], "to": [4, 10]}
